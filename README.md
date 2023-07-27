@@ -1,4 +1,4 @@
-# Image-Editor
+# Enhance It
 Features:
 Brightness,
 Saturation,
