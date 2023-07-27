@@ -8,4 +8,4 @@ Rotate & Flip
 
 
 # Live Demo
-https://vinayak-asati.github.io/Image_Editor.github.io/
+https://enhance-it.netlify.app/
